@@ -1,0 +1,17 @@
+from	to	seconds
+D	A	60
+A	D	80
+D	B	65
+B	D	140
+A	B	45
+B	A	30
+A	C	46
+C	A	120
+B	C	55
+C	B	50
+C	D	160
+D	C	170
+C	E	45
+E	C	45
+E	D	170
+D	E	160

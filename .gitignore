@@ -1,0 +1,11 @@
+runtime/
+.env*
+.vercel/
+__pycache__/
+*.sqlite*
+*.db
+.DS_Store
+route_tools/.build/
+*.zip
+
+review-logins.json

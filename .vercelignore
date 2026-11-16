@@ -1,0 +1,17 @@
+runtime/
+.env*
+.vercel/
+__pycache__/
+*.sqlite*
+*.db
+.DS_Store
+
+tests/
+.github/
+route_tools/
+*.zip
+
+review-logins.json
+start.py
+
+*.bat
